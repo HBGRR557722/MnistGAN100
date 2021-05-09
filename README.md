@@ -1,0 +1,2 @@
+# MnistGAN100
+MnistGAN100
